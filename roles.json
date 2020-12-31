@@ -1,0 +1,18 @@
+{
+  "Roles": [
+    {
+      "Name": "Absorber",
+      "Ability": [
+        {
+          "Name": "Absorber",
+          "Desc": "You will permanently gain the use of non-factional abilities that target you.",
+          "Shot": "1",
+          "Snarf": -0,
+          "Power": 4
+        }
+        ],
+      "Keywords": [],
+      "Allignment": "Town"
+    }
+  ]
+}
